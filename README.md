@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/2586c1d0-82f6-46ba-b2f3-93926b3ed180
 
 ### The Goldilocks Zone
 
-<img width="701" height="783" alt="image" src="https://github.com/user-attachments/assets/1de74d16-d7fb-491a-af40-547629419091" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/1de74d16-d7fb-491a-af40-547629419091" />
 
 The model resolves the non-linear trade-off between mass transport and hydrodynamic clearance across inner cylinder velocities ($U_{\text{inner}} \in [0.02, 0.30]\,\text{m/s}$):
 
